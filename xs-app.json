@@ -1,0 +1,20 @@
+{
+  "welcomeFile": "/flpSandbox.html",
+  "authenticationMethod":"none",
+  "routes": [
+    {
+      "source": "^(/sap/opu/odata.*)",
+      "target": "$1",
+      "destination": "backendservice",
+      "csrfProtection": false
+    },
+    {
+      "source": "^/(.*)$",
+      "target": "$1",
+      "localDir": "./"
+    }
+  ],
+  "websockets": {
+    "enabled": true
+  }
+}
