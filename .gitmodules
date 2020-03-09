@@ -1,3 +1,6 @@
 [submodule "mmt-ui-app-dispmsg-b"]
 	path = mmt-ui-app-dispmsg-b
 	url = https://github.wdf.sap.corp/MaCo-MMT/mmt-ui-app-dispmsg-b.git
+[submodule "mmt-ui-lib-b"]
+	path = mmt-ui-lib-b
+	url = https://github.wdf.sap.corp/MaCo-MMT/mmt-ui-app-dispmsg-b.githttps://github.wdf.sap.corp/MaCo-MMT/mmt-ui-lib-b.git
