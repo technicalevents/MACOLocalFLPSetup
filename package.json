@@ -22,7 +22,7 @@
     "grunt": "^1.0.1",
     "grunt-cli": "^1.2.0",
     "prettier": "^1.14.3",
-    "http-proxy": "^1.11.2",
+    "http-proxy": "^1.18.1",
     "compression": "latest",
     "basic-auth": "latest"
   },
